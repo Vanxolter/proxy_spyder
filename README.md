@@ -63,7 +63,7 @@ Source link: https://github.com/Vanxolter/proxy_spyder
    - ```selenium``` — для управления браузером.
    - ```beautifulsoup4``` — для парсинга HTML.
    - ```lxml``` — для парсинга страниц с использованием beautifulsoup4.
-   - - ```python-dotenv``` — для работы с переменными окружения.<br/> 
+   - ```python-dotenv``` — для работы с переменными окружения.<br/> 
    Установите все зависимости через файл ```requirements.txt```.
 
 ## ⚠️ Важные замечания
